@@ -1,0 +1,15 @@
+.myButton {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #e307eb;
+    color: #1d1d1d;
+    border: 1px solid #FFFBF0;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
