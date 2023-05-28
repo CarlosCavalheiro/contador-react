@@ -10,6 +10,7 @@ function App() {
       <h1>Contador</h1>
       <h2>Você clicou {count} vezes</h2>
       <button  className={styles.myButton} onClick={() => setCount(count + 1)}>Clique aqui</button>
+      <h6>Criado por Carlos Cavalheiro</h6>
     </div>
       
     </>
